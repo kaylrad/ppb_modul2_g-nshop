@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "npm ci --prefix gunshop-modul4-kel08",
+  "buildCommand": "npm run build --prefix gunshop-modul4-kel08",
+  "outputDirectory": "gunshop-modul4-kel08/dist"
+}
